@@ -13,6 +13,7 @@ public class Konu
 	{
 		ID = iD;
 		NAME = nAME;
+
 	}
 
 	public long getID()
